@@ -1,0 +1,239 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	
+	font-family: arial;
+}
+#hrow
+{
+	height: 35px;
+	background-color: #ebebf2;
+}
+#hrow nav
+{
+	float: right;
+	margin-right: 10px;
+	line-height: 34px;
+}
+#hrow nav a
+{
+	text-decoration: none;
+	color: gray;
+	font-size: 12px;
+}
+header
+{
+	
+	margin:0;
+	
+}
+#nav2
+{
+	float: right;
+
+	
+}
+#logo
+{
+	float: left;
+	margin-left: 15px;
+display: inline-block;
+width: 200px;
+height: 100px;
+
+}
+#logo h1
+{
+	font-style: italic;
+	
+	margin: 0;
+	
+}
+#logo h4
+{
+	margin: 0;
+	font-size: 12px;
+	font-weight: 500;
+}
+#subheder
+{
+	background-color: white;
+    height: 80px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#navbar
+{
+
+
+}
+#navbar a
+{
+	text-decoration: none;
+	padding: 20px;
+	padding-bottom: 0;
+	color: gray;
+	font-size: 15px;
+	text-align: center;
+
+}
+
+#navicon
+{
+	
+}
+#navicon img
+{
+
+	width: 40px;
+	height: 40px;
+	padding: 20px;
+	padding-bottom: 0;
+	padding-top: 0;
+
+}
+main
+{
+	margin-top: 0;
+	padding: 0;
+	background-color:#f5f2e9
+}
+
+#marketing
+{
+	clear: both;
+	color: gray;
+	text-align: center;
+	margin-top: 35px;
+
+}
+#marketing h2
+{
+	margin-left: 30px;
+	margin-right: 25px;
+}
+.container
+{
+	width: 319px;
+	height: 450px;
+	margin:9px;
+	display: inline-block;
+	float: left;
+
+}
+.container p
+{
+	text-align: justify;
+	padding: 5px; 
+}
+
+footer
+{
+	margin: 0;
+	clear: both;
+	padding: 0;
+}
+#div1
+{
+	clear: both;
+	float: left;
+	margin: 0;
+	padding:0;
+	width: 100%;
+	height: 100px;
+	background-color: gray;
+
+}
+#div1 img
+{
+	width: 100px;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	padding-left: 20px;
+	opacity: 0.2;
+    -ms-transform: rotate(-20deg); /* IE 9 */
+	transform: rotate(-20deg);
+}
+#div1 p
+{
+	display: inline-block;
+	float: right;
+	margin: 0;
+	margin-top: 50px;
+	margin-right: 800px;
+
+}
+#div2
+{
+	clear: both;
+	background-color: #dbd1d0;
+	height: 300px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	
+}
+.containerf
+{
+	width: 319px;
+	height: 282px;
+	margin:9px;
+	display: inline-block;
+	float: left;
+
+}
+.containerf p
+{
+	text-align: justify;
+	padding: 5px; 
+}
+.containerf img
+{
+	width: 80px;
+	height: 80px;
+	margin: 10px;
+}
+.containerf ul
+{
+	list-style: none; 
+	padding: 0;
+}
+.containerf li
+{
+	padding: 10px;
+}
+.containerf a
+{
+	text-decoration: none;
+	color: gray;
+}
+#div3
+{
+	clear: both;
+	width: 100%
+	margin: 0;
+	padding: 0;
+	height:60px;
+	background-color: #6f7173;
+	line-height: 55px;
+}
+#div3 div
+{
+
+	float: left;
+	padding-left: 20px;
+}
+#div3 nav
+{
+	float: right;
+	padding-right: 20px;
+}
+#div3 nav img
+{
+	width: 30px;
+	height: 30px;
+	margin: 10px;
+	padding-top: 5px;
+}

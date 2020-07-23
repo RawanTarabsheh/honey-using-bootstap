@@ -1,0 +1,35 @@
+body
+{
+	color: gray;
+}
+.fontsize
+{
+	font-size: 25px;
+}
+.backg
+{
+	background-image: url(../images/index.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+.advbgc
+{
+	background-color: #f5f2e9;
+}
+.infobc
+{
+	background-color: gray;
+}
+.imginfo
+{
+	width: 150px;
+	height: 100px;
+	opacity: 0.2;
+    -ms-transform: rotate(-20deg);
+	transform: rotate(-20deg);
+}
+.fontsize
+{
+	font-size: 30px;
+}
